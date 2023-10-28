@@ -1,4 +1,4 @@
-#Hollow Knight de Ps2
+<h1>Hollow Knight de Ps2</h1>
 
 Desenvolvedores:Gabriel_Zeetos,P1xel e Dev Sleenx
 Creditos a empresa:Team Cherry
